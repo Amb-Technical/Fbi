@@ -497,7 +497,7 @@ def menu_reaction_ask():
 	elif cek in ['6','06']:
 		type = 'ANGRY'
 		bot_ask()
-		elif cek in ['7','07']:
+	elif cek in ['7','07']:
 		type = 'CARE'
 		bot_ask()
 	elif cek.lower() == 'menu':
